@@ -7,7 +7,7 @@ decoded to produce a signal that is as close to the original one.
 
 MATLAB is one of the most used software to analyse and process a signal, This
 project is based on the Matlab code to compress and analyse an audio signal using
-Fourier transform and discrete cosine transform.
+Fourier transform.
 
 Audio is the most important medium to be transmitted in a conference-like
 application. In order to be able to successfully transmit audio through a low

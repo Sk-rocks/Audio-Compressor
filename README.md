@@ -20,7 +20,7 @@ bandwidth without significantly degrading perceived audio quality. This is achie
 exploiting redundancies and irrelevancies present in the audio signal, both in the time
 domain and the frequency domain.
 
-#Block-Diagram
+## Block-Diagram
 
 
 <img width="675" alt="image" src="https://github.com/Sk-rocks/Audio-Compressor/assets/108253090/4dcfc18a-2c79-4c37-bd97-94d6ea6784fa">
